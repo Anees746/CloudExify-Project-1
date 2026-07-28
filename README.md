@@ -1,3 +1,6 @@
+Name: Muhammad Anees
+Reg. NO: CX-INT-2026-PY-0303
+
 # Personal Expense Tracker
 
 A simple beginner-friendly Python project for tracking daily expenses.
